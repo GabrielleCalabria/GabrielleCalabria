@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi! I'm Gabrielle 👋✨  
 
-<!--
-**GabrielleCalabria/GabrielleCalabria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **career switcher** transitioning into **UX/UI, Web Design, and Front-end**, focused on learning by doing and building real projects throughout the process.
 
-Here are some ideas to get you started:
+I’m currently studying **HTML5, CSS3, and JavaScript**, alongside **UX/UI Design fundamentals**, aiming to bridge user experience thinking with hands-on implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Looking for opportunities as:
+- Junior UX/UI Designer  
+- Junior UI / Web Designer  
+- Junior Front-end Developer (entry level)
+
+---
+
+## 🧠 What I’m building
+
+I don’t have professional experience in the field yet, but I’m actively developing:
+- Practical study projects  
+- Applied exercises with a focus on usability and interface design  
+- Experiments that connect design and development  
+
+My goal is to **continuously improve**, learning from each project and from feedback.
+
+---
+
+## 🛠️ Tools & Skills
+
+**UX/UI (hands-on practice)**
+- Figma  
+- Wireframes & Prototypes  
+- UX Fundamentals  
+- Behavioural Design  
+- Basic accessibility concepts  
+
+**Front-end (learning in progress)**
+- Semantic HTML5  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- Basic JavaScript (DOM manipulation, events)
+
+**Other**
+- Git & GitHub  
+- Project organization  
+- **Advanced English**
+
+---
+
+## 🚀 Projects
+
+📌 Projects developed during my studies and practical challenges.  
+Each project represents a step in my learning journey.
+
+*(Projects are continuously evolving — frequent updates)*
+
+---
+
+## 🌱 Currently learning
+- JavaScript  
+- Front-end best practices  
+- UX/UI and development integration  
+
+---
+
+## 📫 Get in touch
+- 💼 LinkedIn: [https://www.linkedin.com/in/gabrielle-calabria]
+- 🌐 Portfolio: in progress<!--
