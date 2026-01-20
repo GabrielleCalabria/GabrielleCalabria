@@ -48,8 +48,6 @@ My goal is to **continuously improve**, learning from each project and from feed
 📌 Projects developed during my studies and practical challenges.  
 Each project represents a step in my learning journey.
 
-*(Projects are continuously evolving — frequent updates)*
-
 ---
 
 ## 🌱 Currently learning
