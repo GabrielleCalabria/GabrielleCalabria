@@ -5,9 +5,10 @@ I'm a **career switcher** transitioning into **UX/UI, Web Design, and Front-end*
 I’m currently studying **HTML5, CSS3, and JavaScript**, alongside **UX/UI Design fundamentals**, aiming to bridge user experience thinking with hands-on implementation.
 
 🎯 Looking for opportunities as:
-- Junior UX/UI Designer  
-- Junior UI / Web Designer  
+- Web Developer (junior)  
+- UI Developer (junior)
 - Junior Front-end Developer (entry level)
+- Front-end Engineer (junior)
 
 ---
 
