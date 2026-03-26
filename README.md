@@ -60,4 +60,4 @@ Each project represents a step in my learning journey.
 
 ## 📫 Get in touch
 - 💼 LinkedIn: [https://www.linkedin.com/in/gabrielle-calabria]
-- 🌐 Portfolio: in progress<!--
+- 🌐 Portfolio: [https://gabriellecalabria.github.io/personal-portifolio/]
